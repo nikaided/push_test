@@ -1,0 +1,3 @@
+from b2
+from b2*2
+from b2*3
